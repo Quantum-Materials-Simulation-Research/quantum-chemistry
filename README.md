@@ -1,10 +1,1 @@
-<!-- <p align="center">
-  <img src="" width="100%" />
-</p> -->
-
-<p align="center">
-  <a href="https://Quantum-Materials-Simulation-Research.github.io/quantum-chemistry">
-    <img src=".github/readme/hero.svg?v=2026-01-08T10:21:21.159042Z" width="100%" alt="Access the course website" />
-  </a>
-</p>
-
+Este projeto reúne temas da pesquisa de mestrado em física de materiais, com o objetivo de conseguir descrever a matéria usando métodos computacionais do estado da arte, como computação quântica e machine learning.
